@@ -6,7 +6,7 @@ I am a Computer Engineering student and a beginner Python programmer. This repos
 
 ## 📚 Topics I Have Learned
 
-* Variables and Data Types
+* Variables and Data Types 
 * Input and Output
 * Arithmetic, Comparison and Logical Operators
 * Conditional Statements (if, elif, else)
