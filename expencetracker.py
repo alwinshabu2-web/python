@@ -7,7 +7,7 @@ print("""===========================================
          4.Set/Check Budget
          5.Search Expense
          6.Exit
-  ===========================================""")
+  ===========================================""") 
 expences=[]
 categories=["food","transport","entertainment","shopping","bills","others"]
 while True:
